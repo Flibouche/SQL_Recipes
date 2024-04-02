@@ -1,6 +1,7 @@
 # SQL_Recipes
 
 ## Purpose
+Small tutoriel to learn the basics of SQL requests. 
 
 ## Langages and Tools
-HeidiSQL.
+PHP, SQL, HeidiSQL, Laragon.
